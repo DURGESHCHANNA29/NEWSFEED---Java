@@ -4,7 +4,7 @@ body {
     background-attachment: fixed
   }
   .page1{
-    background-image: url('pngtree-science-or-technology-background-with-dynamic-particles-trendy-colorful-design-template-image_406781.jpg');
+    background-image: url(images.png);
   }
   .page2{
     background-image: url(solid.jpg);
